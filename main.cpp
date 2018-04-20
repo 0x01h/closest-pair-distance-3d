@@ -17,6 +17,11 @@ Compile it using -std=c+11 or -std=gnu++11 parameter, otherwise you will get an 
 g++ main.cpp -o main -std=c++11
 g++ main.cpp -o main -std=gnu++11
 
+Example Usage: 
+
+./main data1000.txt
+./main data5000.txt
+
 */
 
 #include <iostream>
